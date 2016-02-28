@@ -1,0 +1,29 @@
+_repo: England-under-the-Tudors_6727
+creator:
+  author:
+    agent_name: Innes, Arthur D. (Arthur Donald)
+    alias: Innes, Arthur Donald
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '2176'
+    url: http://www.gutenberg.org/2009/agents/2176
+description: Cover; Front matter; Title page; Copyright page; Body matter; Introductory
+  Note; Introduction; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter
+  VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII; Chapter
+  XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII; Chapter
+  XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV; Chapter
+  XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Appendices;
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcc 'DA'
+title: England under the Tudors
+url: http://www.gutenberg.org/ebooks/6727
