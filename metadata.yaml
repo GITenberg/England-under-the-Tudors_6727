@@ -1,4 +1,8 @@
 _repo: England-under-the-Tudors_6727
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Innes, Arthur D. (Arthur Donald)
@@ -13,6 +17,8 @@ description: Cover; Front matter; Title page; Copyright page; Body matter; Intro
   XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII; Chapter
   XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV; Chapter
   XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Appendices;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6727#England-under-the-Tudors
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
